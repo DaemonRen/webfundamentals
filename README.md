@@ -1,2 +1,2 @@
 # webfundamentals
-!-- First practice repositary--!
+!-- First practice repository--!
